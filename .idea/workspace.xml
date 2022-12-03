@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1258fdd5-f0f2-499b-a272-ed45d4af7282" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lld/LoggingSystem/ChainOfResponsibility.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/LoggingSystem/DebugLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/LoggingSystem/ErrorLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/LoggingSystem/InfoLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/LoggingSystem/Logging.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
