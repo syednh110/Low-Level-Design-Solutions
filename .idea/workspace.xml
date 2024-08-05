@@ -2,14 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1258fdd5-f0f2-499b-a272-ed45d4af7282" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/Model/Board.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/Model/PieceType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/Model/Players.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/Model/PlayingPiece.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/Model/PlayingPieceO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/Model/PlayingPieceX.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lld/TicTacToe/TicTacToeGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +35,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "E:/Programming/LLD/LLD"
+    "last_opened_file_path": "D:/Study/interviewcodingpractise"
   }
 }]]></component>
   <component name="RecentsManager">
